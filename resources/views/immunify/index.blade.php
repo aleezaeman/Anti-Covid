@@ -77,7 +77,7 @@
     <nav class="site-nav">
         <div class="container">
             <div class="site-navigation">
-                <a href="index.html" class="logo m-0"> <img src="./logoBluePng.png" height="80px" width="80px"> <span
+                <a href="index.html" class="logo m-0"> <img src="./logoBluePng.png" height="80px" width="340px"> <span
                         class="text-primary"></span></a>
 
                 <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
@@ -88,7 +88,7 @@
                     <li><a href="about.html" style="color:#0976B1; font-size:16px">About</a></li>
                     <li><a href="contact.html" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
                     <li><a href="/loginform"> <button  type="button" class="btn btn-info"
-                                style="background-color:#0976B1; font-size:16px">Log In</button></a></li>
+                                style="background-color:#3389fc; font-size:16px">Log In</button></a></li>
 
                 </ul>
 
@@ -107,7 +107,7 @@
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="intro-wrap">
-                    <h1 class="mb-5" style="color:#203C71;"><span class="d-block">Your Immunity Is </span> Our <span
+                    <h1 class="mb-5" style="color:#1f0b03;"><span class="d-block">Your Health Is </span> Our <span
                             class="typed-words"></span></h1>
 <!-- form start -->
                     <form class="form" method ="post" action ="{{route('get.data')}}">
@@ -153,7 +153,7 @@
                         <div class="row align-items-center">
                             <div class="col-sm-12 col-md-6 mb-3 mb-lg-0 col-lg-4">
                                 <input type="submit" class="align-items-center btn btn-primary btn-block"
-                                    style="background-color:#203C71;" value="Submit">
+                                    style="background-color:#3389fc;" value="Submit">
                             </div>
                         </div>
                     </form>
@@ -379,7 +379,7 @@
         </div>
     </div>
 
-    <div class="hero hero-inner" style="background-color:#0a77b1;">
+    <div class="hero hero-inner" style="background-color:#3389fc;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mx-auto text-center">
@@ -411,7 +411,7 @@
         </div>
       </div>
       <div class="col-lg-5 pl-lg-5 mt-5 mt-lg-0">
-        <h2 class="section-title mb-4" style ="color: #203C71;">About Immunify</h2>
+        <h2 class="section-title mb-4" style ="color: #203C71;">About Anti-Covid</h2>
         <p class="mb-4">Our mission is to provide reliable and accurate information about vaccines and promote the importance of vaccination for all age groups. We believe that every individual deserves access to the tools and knowledge necessary to make informed decisions about their health, and vaccines are a critical component of that.</p>
         <p class="mb-4">Our team of experts includes healthcare professionals, scientists, and communicators who are passionate about public health and dedicated to sharing the latest research and recommendations regarding vaccines. We strive to make our content accessible to everyone, including parents, caregivers, educators, and healthcare providers.</p>
         <p class="mb-4">Our website provides information about the types of vaccines available, their safety and effectiveness</p>
@@ -422,7 +422,7 @@
 
 
 
-<div class="hero hero-inner" style="background-color:#0a77b1;">
+<div class="hero hero-inner" style="background-color:#3389fc;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mx-auto text-center">
@@ -501,7 +501,7 @@
 
 
 
-    <div class="py-5 cta-section"  style="background-color:#0a77b1;">
+    <div class="py-5 cta-section"  style="background-color:#3389fc;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12">
@@ -564,7 +564,7 @@
                             <ul class="list-unstyled quick-info links">
                                 <li class="email"><a href="#">  4/B Shahrah-e-Ghalib Rd, Block 6 Clifton</a></li>
                                 <li class="phone"><a href="#"> 09244791442</a></li>
-                                <li class="address"><a href="#"> @immunify@gmail.com</a></li>
+                                <li class="address"><a href="#"> @anticovid@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
