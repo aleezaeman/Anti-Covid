@@ -17,7 +17,7 @@ use App\Http\Controllers\vaccineController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('immunify.index');
 });
 
 Route::get('layout', function () {

@@ -37,7 +37,7 @@
 }
 
 body {
-    background-color: #0976B1;
+    background-color: #3389fc;
 }
 
 .card-img-top {
@@ -80,30 +80,30 @@ section {
 
 <body>
 
-    <section class="vh-100" style="background-color:#0A76B1;">
+    <section class="vh-100" style="background-color:#3389fc;">
         <div class="container py-5 h-100">
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col col-xl-12">
                     <div class="card" style="border-radius: 1rem;">
                         <div class="row g-0">
                             <div class="col-md-6 col-lg-5 d-none d-md-block">
-                                <img src="./pexels-anna-shvets-3786234.jpg" alt="login form" class="card-img-top"
+                                <img src="./pexels-anna-shvets-3786119.jpg" alt="login form" class="card-img-top"
                                     style="border-radius: 1rem 0 0 1rem;" />
                             </div>
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back, Immunify
+                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back, Anti-Covid
                                             Team</h1>
                                         <p class="lead">
-                                            Your Immunity Is Our Priority
+                                            Your Health Is Our Priority
                                         </p>
                                     </div>
                                   
                                        <a href="/parentSignin"> <button  type="button" class="btn btn-info"
-                                style="background-color:#0976B1; font-size:16px">For Parents</button></a> <br>
+                                style="background-color:#3389fc; font-size:16px">For Patients</button></a> <br>
                           <a href="/hospitalSignin"> <button  type="button" class="btn btn-info"
-                                style="background-color:#0976B1; font-size:16px">For Hospital</button></a> <br>
+                                style="background-color:#3389fc; font-size:16px">For Hospital</button></a> <br>
                                        
                                         </div>
                                     </form>

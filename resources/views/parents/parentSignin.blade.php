@@ -37,7 +37,7 @@
 }
 
 body {
-    background-color: #0976B1;
+    background-color: #3389fc;
 }
 
 .card-img-top {
@@ -80,23 +80,23 @@ section {
 
 <body>
 
-    <section class="vh-100" style="background-color:#0A76B1;">
+    <section class="vh-100" style="background-color:#3389fc;">
         <div class="container py-5 h-100">
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col col-xl-12">
                     <div class="card" style="border-radius: 1rem;">
                         <div class="row g-0">
                             <div class="col-md-6 col-lg-5 d-none d-md-block">
-                                <img src="./pexels-anna-shvets-3786234.jpg" alt="login form" class="card-img-top"
+                                <img src="./pexels-anna-shvets-3786119.jpg" alt="login form" class="card-img-top"
                                     style="border-radius: 1rem 0 0 1rem;" />
                             </div>
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back, Immunify
+                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back, Anti-Covid
                                             Team</h1>
                                         <p class="lead">
-                                            Your Immunity Is Our Priority
+                                            Your Health Is Our Priority
                                         </p>
                                     </div>
                                     <div class="text-center">
@@ -107,12 +107,12 @@ section {
                                     <form method="POST" action="/parentSigninPost" enctype="multipart-formdata">
                                         @csrf
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">Email</label>
+                                            <label style="color: #3389fc;" class="form-label">Email</label>
                                             <input class="form-control form-control-lg" type="email" name="email"
                                                 placeholder="Enter your email" />
                                         </div>
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">Password </label>
+                                            <label style="color: #3389fc;" class="form-label">Password </label>
                                             <input class="form-control form-control-lg" type="password" name="password"
                                                 placeholder="Enter password" />
                                         </div>
@@ -129,8 +129,8 @@ section {
 
                                         @endif
                                         <a class="small text-muted" href="#!">Forgot password?</a>
-                                        <p class="mb-5 pb-lg-2" style="color: #0A77B1;">Don't have an account? <a
-                                                href="/parentSignup" style="color:#203C71;">Register here</a></p>
+                                        <p class="mb-5 pb-lg-2" style="color: #010001">Don't have an account? <a
+                                                href="/parentSignup" style="color:#3389fc;">Register here</a></p>
                                         <div class="text-center mt-3">
                                         <button type="submit" class="btn btn-lg btn-primary">Sign In</button>
                                         </div>

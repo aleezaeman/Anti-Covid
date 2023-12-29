@@ -34,7 +34,7 @@
         href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400&display=swap"
         rel="stylesheet">
 
-    <title>Immunify</title>
+    <title>Anti-Covid</title>
 
     <style>
     * {
@@ -488,7 +488,7 @@
         <div class="quick-contact-item d-flex align-items-center mb-4">
           <span class="flaticon-mail"></span>
           <address class="text">
-            @immunify@gmail.com
+            @Anti-Covid@gmail.com
           </address>
         </div>
       </div>
@@ -521,7 +521,7 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="widget">
-                            <h3 class="heading">About Immunify</h3>
+                            <h3 class="heading">About Anti-Covid</h3>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                                 there live the blind texts.</p>
                         </div>
