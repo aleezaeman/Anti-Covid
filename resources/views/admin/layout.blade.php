@@ -101,7 +101,7 @@ section {
         <nav id="sidebar" class="sidebar js-sidebar" >
             <div  style="background-color:#0a77b1;" class="sidebar-content js-simplebar">
                 <a class="sidebar-brand" href="index.html">
-                  <span class="align-middle">   <img src="./logo.png" height="80px" width="80px"></span>
+                  <span class="align-middle">   <img src="./anti-covid_logo.png" height="50px" width="200px"; ></span>
                 </a>
 
                 <ul class="sidebar-nav">
