@@ -84,9 +84,9 @@
                     <li class="active"><a href="index.html" style="color:#0976B1; font-size:16px">Home</a></li>
                     <li class="has-children">
                        
-                    <li id="smalll"><a href="#why us" style="color:#0976B1; font-size:16px">Why us</a></li>
-                    <li><a href="#About Us" style="color:#0976B1; font-size:16px">About</a></li>
-                    <li><a href="#Contact Us" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
+                    <li id="smalll"><a href="services.html" style="color:#0976B1; font-size:16px">Why us</a></li>
+                    <li><a href="about.html" style="color:#0976B1; font-size:16px">About</a></li>
+                    <li><a href="contact.html" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
                     <li><a href="/loginform"> <button  type="button" class="btn btn-info"
                                 style="background-color:#3389FC; font-size:16px">Log In</button></a></li>
 
@@ -174,7 +174,7 @@
     </div>
 </div>
 
-<div class="untree_co-section" id="why us">
+<div class="untree_co-section">
   <div class="container">
     <div class="row mb-5 justify-content-center">
       <div class="col-lg-6 text-center">
@@ -379,7 +379,7 @@
         </div>
     </div>
 
-    <div class="hero hero-inner"  id="About Us" style="background-color:#0a77b1;">
+    <div class="hero hero-inner" style="background-color:#0a77b1;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mx-auto text-center">
@@ -425,7 +425,7 @@
 
 
 
-<div class="hero hero-inner" id="Contact Us" style="background-color:#0a77b1;">
+<div class="hero hero-inner" style="background-color:#0a77b1;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mx-auto text-center">

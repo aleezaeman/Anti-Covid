@@ -18,6 +18,7 @@ use App\Http\Controllers\vaccineController;
 
 Route::get('/', function () {
     return view('index');
+    
 });
 
 Route::get('layout', function () {
