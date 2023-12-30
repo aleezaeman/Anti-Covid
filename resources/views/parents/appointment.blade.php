@@ -87,9 +87,9 @@
 					<div class="d-table-cell align-middle">
 
 						<div class="text-center">
-							<h1 class="h2">Immunify</h1>
+							<h1 class="h2">Anti-Covid</h1>
 							<p class="lead">
-								Your Immunity Is Our Priority
+								Your Health Is Our Priority
 							</p>
 						</div>
 

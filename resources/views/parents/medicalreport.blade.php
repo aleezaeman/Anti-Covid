@@ -70,7 +70,7 @@
                 <div class="card flex-fill w-100">
                     <div class="card-header">
 
-                        <h5 class="card-title mb-0">    Medical Report for Adam - Polio Vaccination at xyz Hospital</h5>
+                        <h5 class="card-title mb-0">    Medical Report for Adam - Covid Vaccination at xyz Hospital</h5>
                     </div>
                     <div class="card-body d-flex">
                         <div class="align-self-center w-100">
@@ -81,7 +81,7 @@
 
                                     <tr>
                                         <td>Patient Name:</td>
-                                        <td class="text-end">xyz child</td>
+                                        <td class="text-end">Patient xyz </td>
 
 
                                     </tr>

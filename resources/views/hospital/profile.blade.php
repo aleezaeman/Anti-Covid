@@ -97,7 +97,7 @@
                             <img src="./hospital6.jpg" alt="Christina Mason"
                                 class="img-fluid rounded-circle mb-2" width="128" height="128" />
                             <h5 class="card-title mb-0">xyz hospital</h5>
-                            <div class="text-muted mb-2">Immunify</div>
+                            <div class="text-muted mb-2">Anti-Covid</div>
                         
                                         <a href="index.html" style=" color:#3A55A4 "
                                             class="btn btn-lg m-t5">
@@ -178,7 +178,7 @@
                                         </tr>
                                         <tr>
                                             <td>collabration</td>
-                                            <td class="text-end">Immunify</td>
+                                            <td class="text-end">Anti-Covid</td>
                                            
                                         </tr>
                                         <tr>

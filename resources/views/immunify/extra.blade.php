@@ -45,7 +45,7 @@
 
 
 
-            <a href="index.html" class="logo me-auto"><img src="./logoBluePng.png" alt="" class="img-fluid"></a>
+            <a href="index.html" class="logo me-auto"><img src="./anti-covid_logo.png" alt="" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
@@ -208,9 +208,9 @@
         <div class="row">
             <div class="col-md-6 col-xl-6 flex">
 
-                <h1>YOUR IMMUNITY IS <br>
+                <h1>YOUR Health IS <br>
                     OUR PRIORITY</h1>
-                <h2>Welcome To Immunify</h2>
+                <h2>Welcome To Anti-Covid</h2>
                 <a href="#about" class="btn-get-started scrollto">Get Started</a>
             </div>
 

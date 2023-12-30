@@ -275,7 +275,7 @@
                                         <p class="lead">You will be notified if Your request get accepted</p>
                                     </div>
                                     <div class="text-center">
-                                        <img src="../logoBluePng.png" alt="logo" class="img-fluid" width="132"
+                                        <img src="./anti-covid_logo.png" alt="logo" class="img-fluid" width="132"
                                             height="132" />
                                     </div>
                                     <br>
@@ -285,7 +285,7 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="mb-3">
-                                                    <label class="form-label">Child Name</label>
+                                                    <label class="form-label">patient Name</label>
                                                     <input class="form-control form-control-lg" type="text"
                                                         name="fname" placeholder="Enter Child name" />
                                                     @error('fname')
@@ -326,11 +326,11 @@
                                                     <label class="form-label">vaccine Type</label>
                                                     <select class="form-control form-control-lg" name="vaccineType">
                                                         <option value="">Select Hospital Timing</option>
-                                                        <option value="polio">polio</option>
-                                                        <option value="hepatis">Mumps</option>
-                                                        <option value="hepatis">Rubella</option>
-                                                        <option value="hepatis">hepatis</option>
-                                                        <option value="hepatis">Rotavirus</option>
+                                                        <option value="polio">Pfizer-BioNTech</option>
+                                                        <option value="hepatis">Moderna</option>
+                                                        <option value="hepatis">AstraZeneca</option>
+                                                        <option value="hepatis">Sinopharm</option>
+                                                        <option value="hepatis">Sinovac</option>
                                                     
                                                     </select>
                                                     @error('vaccineType')

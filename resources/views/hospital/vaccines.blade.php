@@ -117,8 +117,8 @@
 
                                 <div class=" text-end">
 
-                                    <a href="/addVaccine" style=" mt-0 color:#3A55A4;margin-left:9px;"
-                                        class="btn btn-lg m-t5">
+                                <a href="patientsmore" style="margin-top: 0; color: #3A55A4; margin-left: 9px;" class="btn btn-lg m-t5">
+
 
 
                                         add</a>

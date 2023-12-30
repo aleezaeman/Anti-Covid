@@ -88,7 +88,7 @@ section {
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Get Started, Immunify
+                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Get Started, Anti-Covid
                                             Team</h1>
                                         <p class="lead">Create Your Account</p>
                                     </div>

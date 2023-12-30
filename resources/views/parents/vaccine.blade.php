@@ -119,7 +119,7 @@
 
 
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">I Polio</h4>
+                                                <h4 class="app-card-title">Pfizer-BioNTech</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -155,7 +155,7 @@
 
                                             <!--//col-->
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Rubella</h4>
+                                                <h4 class="app-card-title">Moderna</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -195,7 +195,7 @@
 
 
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Hepatits</h4>
+                                                <h4 class="app-card-title">Johnson </h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -231,7 +231,7 @@
 
                                             <!--//col-->
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Diphteria</h4>
+                                                <h4 class="app-card-title">AstraZeneca</h4>
                                             </div>
                                             <!--//col-->
                                         </div>

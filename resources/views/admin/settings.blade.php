@@ -19,13 +19,13 @@
 
                                         <tr>
                                             <td>username</td>
-                                            <td class="text-end">Ume Kulsoom</td>
+                                            <td class="text-end">Samreen</td>
                                  
                                           
                                         </tr>
                                         <tr>
                                             <td>email</td>
-                                            <td class="text-end">kulsoom2204e@aptechgdn.net</td>
+                                            <td class="text-end">samreen2204e@aptechgdn.net</td>
                                 
                                         </tr>
                                         <tr>
@@ -35,7 +35,7 @@
                                         </tr>
                                         <tr>
                                             <td>project name</td>
-                                            <td class="text-end">Immunify</td>
+                                            <td class="text-end">Anti-Covid</td>
                                            
                                         </tr>
                                         <tr>

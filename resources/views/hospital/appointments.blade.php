@@ -81,7 +81,7 @@
                         <table class="table table-hover my-0">
                             <thead>
                                 <tr>
-                                    <th>Child Name</th>
+                                    <th>patient  Name</th>
                                     <th class="d-none d-xl-table-cell">Age</th>
                                     <th class="d-none d-xl-table-cell">Time</th>
                                     <th>Status</th>

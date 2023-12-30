@@ -16,7 +16,9 @@ return new class extends Migration
             $table->string("vaccineType");
             $table->string("VaccineQuantity");
             $table->integer("hospitalId");
-            $table->foreign("hospitalId")->on("id")->references("added_hospitals");
+            $table->foreign('hospitalId')->references('id')->on('added_hospitals');
+          
+
             $table->timestamps();
         });
     }

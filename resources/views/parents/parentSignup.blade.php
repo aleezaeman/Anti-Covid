@@ -93,7 +93,7 @@ section {
                                         <p class="lead">You will be notified if Your request get accepted</p>
                                     </div>
                                     <div class="text-center">
-                                        <img src="./logoBluePng.png" alt="Charles Hall" class="img-fluid" width="132"
+                                        <img src="./anti-covid_logo.png" alt="Charles Hall" class="img-fluid" width="132"
                                             height="132" />
                                     </div>
                                     <form method="POST" action="/parentSignupPost" enctype="multipart/form-data">
@@ -172,7 +172,7 @@ section {
                                                 </div>
 
                                                 <div class="mb-3">
-                                                    <label class="form-label"> Parent Profile</label>
+                                                    <label class="form-label"> patient Profile</label>
                                                     <input class="form-control form-control-lg" type="file"
                                                         name="parentImage" placeholder="Enter profile Image" />
                                                     @error('parentImage')

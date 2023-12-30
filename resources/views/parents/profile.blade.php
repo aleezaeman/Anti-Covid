@@ -97,7 +97,7 @@
                 <img src="./vesctor.png" alt="Christina Mason" class="img-fluid rounded-circle mb-2" width="128"
                     height="128" />
                 <h5 class="card-title mb-0">xyz patient</h5>
-                <div class="text-muted mb-2">immunify</div>
+                <div class="text-muted mb-2">Anti-Covid</div>
                 <a href="index.html" style=" color:#3A55A4 "
                                             class="btn btn-lg m-t5">
                                             edit</a>
@@ -147,7 +147,7 @@
 
                             <tr>
                                 <td>username</td>
-                                <td class="text-end">Ume Kulsoom</td>
+                                <td class="text-end">Samreen</td>
 
 
                             </tr>
@@ -176,7 +176,7 @@
                             </tr>
                             <tr>
                                 <td>project name</td>
-                                <td class="text-end">Immunify</td>
+                                <td class="text-end">Anti-Covid</td>
 
                             </tr>
                         

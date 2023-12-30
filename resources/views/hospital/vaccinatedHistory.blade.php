@@ -109,7 +109,7 @@
                                 <th>timing</th>
                                 <th class="d-none d-md-table-cell">vaccine</th>
                             
-                                <th class="d-none d-md-table-cell">child Image</th>
+                                <th class="d-none d-md-table-cell">patient Image</th>
                                 <th class="d-none d-md-table-cell">parent</th>
                                 <th class="d-none d-md-table-cell">hospital</th>
                         

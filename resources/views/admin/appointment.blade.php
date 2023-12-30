@@ -93,10 +93,10 @@ section {
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back, Immunify
+                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back,Anti-Covid
                                             Team</h1>
                                         <p class="lead">
-                                            Your Immunity Is Our Priority
+                                            Your Health Is Our Priority
                                         </p>
                                     </div>
                                     <div class="text-center">

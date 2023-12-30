@@ -34,7 +34,7 @@
         href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400&display=swap"
         rel="stylesheet">
 
-    <title>Immunify</title>
+    <title>Anti-Covid</title>
 
     <style>
     * {
@@ -77,18 +77,18 @@
     <nav class="site-nav">
         <div class="container">
             <div class="site-navigation">
-                <a href="index.html" class="logo m-0"> <img src="./logoBluePng.png" height="80px" width="80px"> <span
+                <a href="index.html" class="logo m-0"> <img src="./anti-covid_logo.png" height="50px" width="200px"> <span
                         class="text-primary"></span></a>
 
                 <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
                     <li class="active"><a href="index.html" style="color:#0976B1; font-size:16px">Home</a></li>
                     <li class="has-children">
                        
-                    <li id="smalll"><a href="services.html" style="color:#0976B1; font-size:16px">Why us</a></li>
-                    <li><a href="about.html" style="color:#0976B1; font-size:16px">About</a></li>
-                    <li><a href="contact.html" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
+                    <li id="smalll"><a href="#why us" style="color:#0976B1; font-size:16px">Why us</a></li>
+                    <li><a href="#About Us" style="color:#0976B1; font-size:16px">About</a></li>
+                    <li><a href="#Contact Us" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
                     <li><a href="/loginform"> <button  type="button" class="btn btn-info"
-                                style="background-color:#0976B1; font-size:16px">Log In</button></a></li>
+                                style="background-color:#3389FC; font-size:16px">Log In</button></a></li>
 
                 </ul>
 
@@ -107,7 +107,7 @@
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="intro-wrap">
-                    <h1 class="mb-5" style="color:#203C71;"><span class="d-block">Your Immunity Is </span> Our <span
+                    <h1 class="mb-5" style="color:#203C71;"><span class="d-block">Your Health Is </span> Our <span
                             class="typed-words"></span></h1>
 <!-- form start -->
                     <form class="form" method ="post" action ="{{route('get.data')}}">
@@ -153,7 +153,7 @@
                         <div class="row align-items-center">
                             <div class="col-sm-12 col-md-6 mb-3 mb-lg-0 col-lg-4">
                                 <input type="submit" class="align-items-center btn btn-primary btn-block"
-                                    style="background-color:#203C71;" value="Submit">
+                                    style="background-color:#3389FC;" value="Submit">
                             </div>
                         </div>
                     </form>
@@ -174,7 +174,7 @@
     </div>
 </div>
 
-<div class="untree_co-section">
+<div class="untree_co-section" id="why us">
   <div class="container">
     <div class="row mb-5 justify-content-center">
       <div class="col-lg-6 text-center">
@@ -192,14 +192,14 @@
       <div class="col-12 col-md-6 col-lg-4 feature-1-wrap d-md-flex flex-md-column order-lg-1">
         <div class="feature-1 d-md-flex">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Protect against diseases</h3>
-            <p style="color: #0A77B1;" class="mb-0">Vaccines protect children from a range of diseases, such as measles, polio, whooping cough, and more.</p>
+            <h3 style="color: #203C71;">Prevents serious illness:</h3>
+            <p style="color: #0A77B1;" class="mb-0"> COVID-19 vaccines available in the United States are safe and effective at protecting people</p>
           </div>
         </div>
         <div class="feature-1 ">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Prevent outbreaks:</h3>
-            <p style="color: #0A77B1;" class="mb-0">When enough people in a community are vaccinated against a disease, it becomes much less likely to spread. </p>
+            <h3 style="color: #203C71;">Prevents outbreaks</h3>
+            <p style="color: #0A77B1;" class="mb-0"> When enough people in a community are vaccinated against a disease, it becomes much less likely to spread. </p>
           </div>
         </div>
       </div>
@@ -379,7 +379,7 @@
         </div>
     </div>
 
-    <div class="hero hero-inner" style="background-color:#0a77b1;">
+    <div class="hero hero-inner"  id="About Us" style="background-color:#0a77b1;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mx-auto text-center">
@@ -403,18 +403,21 @@
     <div class="row">
       <div class="col-lg-7">
         <div class="owl-single dots-absolute owl-carousel">
-          <img src="./c111.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
+          <img src="./bg_2.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
           <img src="./c22.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
           <img src="./c33.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
-          <img src="./c44.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
+          <img src="./covid3.jpg" alt="Free HTML Template by Untree.co" class="img-fluid rounded-20">
           
         </div>
       </div>
       <div class="col-lg-5 pl-lg-5 mt-5 mt-lg-0">
-        <h2 class="section-title mb-4" style ="color: #203C71;">About Immunify</h2>
-        <p class="mb-4">Our mission is to provide reliable and accurate information about vaccines and promote the importance of vaccination for all age groups. We believe that every individual deserves access to the tools and knowledge necessary to make informed decisions about their health, and vaccines are a critical component of that.</p>
-        <p class="mb-4">Our team of experts includes healthcare professionals, scientists, and communicators who are passionate about public health and dedicated to sharing the latest research and recommendations regarding vaccines. We strive to make our content accessible to everyone, including parents, caregivers, educators, and healthcare providers.</p>
-        <p class="mb-4">Our website provides information about the types of vaccines available, their safety and effectiveness</p>
+        <h2 class="section-title mb-4" style ="color: #203C71;">About Anti-Covid</h2>
+        <p class="mb-4">Our mission is to provide reliable and accurate information about vaccines, specifically focusing on COVID vaccines, and promote the importance of vaccination for all age groups. We believe that every individual deserves access to the tools and knowledge necessary to make informed decisions about their health, and COVID vaccines are a critical component of that.</p>
+
+        <p class="mb-4">Our team of experts includes healthcare professionals, scientists, and communicators who are passionate about public health and dedicated to sharing the latest research and recommendations regarding COVID vaccines. We strive to make our content accessible to everyone, including parents, caregivers, educators, and healthcare providers.</p>
+
+        <p class="mb-4">Our website provides information about the types of COVID vaccines available, their safety, and effectiveness.</p>
+        
       </div>
     </div>
   </div>
@@ -422,7 +425,7 @@
 
 
 
-<div class="hero hero-inner" style="background-color:#0a77b1;">
+<div class="hero hero-inner" id="Contact Us" style="background-color:#0a77b1;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mx-auto text-center">
@@ -488,7 +491,7 @@
         <div class="quick-contact-item d-flex align-items-center mb-4">
           <span class="flaticon-mail"></span>
           <address class="text">
-            @immunify@gmail.com
+            @Anti-Covid@gmail.com
           </address>
         </div>
       </div>
@@ -564,7 +567,7 @@
                             <ul class="list-unstyled quick-info links">
                                 <li class="email"><a href="#">  4/B Shahrah-e-Ghalib Rd, Block 6 Clifton</a></li>
                                 <li class="phone"><a href="#"> 09244791442</a></li>
-                                <li class="address"><a href="#"> @immunify@gmail.com</a></li>
+                                <li class="address"><a href="#"> @Anti-Covid@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
