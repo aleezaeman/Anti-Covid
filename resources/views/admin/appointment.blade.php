@@ -37,7 +37,7 @@
 }
 
 body {
-    background-color: #0976B1;
+    background-color: #348afc;
 }
 
 .card-img-top {
@@ -80,20 +80,20 @@ section {
 
 <body>
 
-    <section class="vh-100" style="background-color:#0A76B1;">
+    <section class="vh-100" style="background-color:#348afc;">
         <div class="container py-5 h-100">
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col col-xl-12">
                     <div class="card" style="border-radius: 1rem;">
                         <div class="row g-0">
                             <div class="col-md-6 col-lg-5 d-none d-md-block">
-                                <img src="./pexels-anna-shvets-3786234.jpg" alt="login form" class="card-img-top"
+                                <img src="./pexels-anna-shvets-3786119.jpg" alt="login form" class="card-img-top"
                                     style="border-radius: 1rem 0 0 1rem;" />
                             </div>
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Welcome Back,Anti-Covid
+                                        <h1 style="color:#348afc;  font-size:30px;" class="h2">Welcome Back,Anti-Covid
                                             Team</h1>
                                         <p class="lead">
                                             Your Health Is Our Priority
@@ -107,30 +107,30 @@ section {
                                     <form method="POST" action="/signinPost" enctype="multipart-formdata">
                                         @csrf
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">date</label>
+                                            <label style="color: #348afc;" class="form-label">Date</label>
                                             <input class="form-control form-control-lg" value="{{$data['date']}}" type="text" name="date"
                                                 placeholder="Enter your email" />
                                         </div>
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">location</label>
+                                            <label style="color: #348afc;" class="form-label">Location</label>
                                             <input class="form-control form-control-lg" value="{{$data['location']}}" type="text" name="location"
                                                 placeholder="" />
                                         </div>
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">vaccine</label>
+                                            <label style="color: #348afc;" class="form-label">Vaccine</label>
                                             <input class="form-control form-control-lg" value="{{$data['vtype']}}" type="text" name="vtype"
                                                  />
                                         </div>
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">Email</label>
+                                            <label style="color: #348afc;" class="form-label">Email</label>
                                             <input class="form-control form-control-lg"  type="text" name=""
-                                                placeholder="Enter your email" />
+                                                placeholder="Enter your Email" />
                                         </div>
 
                                         <div class="mb-3">
-                                            <label style="color: #0A77B1;" class="form-label">password</label>
+                                            <label style="color: #348afc;" class="form-label">Password</label>
                                             <input class="form-control form-control-lg"  type="password" name=""
-                                                placeholder="Enter your email" />
+                                                placeholder="Enter your Password" />
                                         </div>
 
                                         @if(session('message'))

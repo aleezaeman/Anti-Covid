@@ -247,6 +247,10 @@ Route::GET('/vaccinated',[parentController::class,'vaccinated']);
 
 Route::GET('/loginform',[parentController::class,'loginForm']);
 
+Route::GET('/signupform',[parentController::class,'signupform']);
+
+Route::post('/signupform',[parentController::class,'signupform']);
+
 Route::post('/contactsubmitform',[adminController::class,'cfunc'])->name('contactsubmitform');
 
 route::post('getdata',[adminController::class, 'getdata'])->name('get.data');

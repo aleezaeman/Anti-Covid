@@ -143,9 +143,9 @@
                             
                          
 
-                                <td class="record btnsearch"> <button class="btn btnsearch2 " style="background-color:#203C71;"
+                                <td class="record btnsearch"> <button class="btn btnsearch2 " style="background-color:#378bfc;"
                                       type="submit"> <a
-                                         style="background-color:#203C71;"   class="btnsearch2  text-white" href="/bookingdelete/{{$b->book_id}}">vaccinated</a></button>
+                                         style="background-color:#378bfc;"   class="btnsearch2  text-white" href="/bookingdelete/{{$b->book_id}}">Vaccinated</a></button>
                                 </td>
                                 </tr>
                             @endforeach

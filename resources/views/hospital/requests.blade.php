@@ -124,7 +124,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                           
                                         </tr>
@@ -133,7 +133,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                         <tr>
@@ -141,7 +141,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span  style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span  style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                         <tr>
@@ -149,7 +149,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span  style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span  style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                         <tr>
@@ -157,7 +157,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span  style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span  style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn">x</span></td>
                                         </tr>
                                         <tr>
@@ -165,7 +165,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span  style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span  style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                     </tbody>

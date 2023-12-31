@@ -91,7 +91,7 @@
                 <div class="card flex-fill">
                     <div class="card-header">
 
-                        <h5 class="card-title mb-0">booking scheduled</h5>
+                        <h5 class="card-title mb-0">Booking Scheduled</h5>
                     </div>
                     <table class="table table-hover my-0">
                         <thead>
@@ -99,20 +99,20 @@
 
 
                                 <th>Id</th>
-                                <th class="d-none d-xl-table-cell">first name</th>
-                                <th class="d-none d-xl-table-cell">last name</th>
-                                <th>date of birth</th>
-                                <th class="d-none d-md-table-cell">age</th>
-                                <th class="d-none d-md-table-cell">weight</th>
-                                <th class="d-none d-md-table-cell">medical issue</th>
-                                <th class="d-none d-xl-table-cell">date</th>
-                                <th>timing</th>
-                                <th class="d-none d-md-table-cell">vaccine</th>
+                                <th class="d-none d-xl-table-cell">First Name</th>
+                                <th class="d-none d-xl-table-cell">Last Name</th>
+                                <th>Date of Birth</th>
+                                <th class="d-none d-md-table-cell">Age</th>
+                                <th class="d-none d-md-table-cell">Weight</th>
+                                <th class="d-none d-md-table-cell">Medical Issue</th>
+                                <th class="d-none d-xl-table-cell">Date</th>
+                                <th>Timing</th>
+                                <th class="d-none d-md-table-cell">Vaccine</th>
 
-                                <th class="d-none d-md-table-cell">child Image</th>
-                                <th class="d-none d-md-table-cell">parent</th>
+                                <th class="d-none d-md-table-cell">Patient Image</th>
+                                <th class="d-none d-md-table-cell">Patient</th>
 
-                                <th class="d-none d-md-table-cell">hospital</th>
+                                <th class="d-none d-md-table-cell">Hospital</th>
 
                             </tr>
                         </thead>

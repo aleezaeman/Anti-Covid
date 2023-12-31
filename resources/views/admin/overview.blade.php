@@ -96,7 +96,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">New Patients</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">New Patients</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -117,7 +117,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">Monthly Visitors</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">Monthly Visitors</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -140,7 +140,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">Appointments</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">Appointments</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -161,7 +161,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title"  style="color: #0A77B1;" >Requests</h5>
+                                                <h5 class="card-title"  style="color: #3389fc;" >Requests</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -187,7 +187,7 @@
                     <div class="card flex-fill w-100">
                         <div class="card-header">
 
-                            <h5 style="color: #0A77B1;" class="card-title mb-0">Analytics</h5>
+                            <h5 style="color: #3389fc;" class="card-title mb-0">Analytics</h5>
                         </div>
                         <div class="card-body py-3">
                             <div class="chart chart-sm">
@@ -201,7 +201,7 @@
   <div class="col-12 col-md-6 order-md-2">
     <div class="card">
       <div class="card-header">
-        <h5 class="card-title mb-0" style="color: #0A77B1;">Requests</h5>
+        <h5 class="card-title mb-0" style="color: #3389fc;">Requests</h5>
       </div>
       <div class="card-body">
         <div class="table-responsive">
@@ -280,7 +280,7 @@
                     <div class="card flex-fill">
                         <div class="card-header">
 
-                            <h5 style="color: #0A77B1;"  class="card-title mb-0">Calendar</h5>
+                            <h5 style="color: #3389fc;"  class="card-title mb-0">Calendar</h5>
                         </div>
                         <div class="card-body d-flex">
                             <div class="align-self-center w-100">
@@ -297,7 +297,7 @@
   <table class="table table-hover my-0">
     <thead>
       <tr>
-        <th>Child Name</th>
+        <th>Patient Name</th>
         <th class="d-none d-xl-table-cell">Age</th>
         <th class="d-none d-xl-table-cell">Time</th>
         <th>Status</th>

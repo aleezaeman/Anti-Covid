@@ -20,7 +20,7 @@
                         <i class="text-danger" data-feather="alert-circle"></i>
                     </div>
                     <div class="col-10">
-                        <div class="text-dark">cancelled appointment</div>
+                        <div class="text-dark">Cancelled Appointment</div>
                         <div class="text-muted small mt-1">Sarah Cancelled appointment 11-12-1 </div>
                         <div class="text-muted small mt-1">30m ago</div>
                     </div>
@@ -99,12 +99,12 @@
                                 <th>Id</th>
                                 <th class="d-none d-xl-table-cell">Name</th>
                                 <th class="d-none d-xl-table-cell">Email</th>
-                                <th class="d-none d-md-table-cell">password</th>
-                                <th class="d-none d-md-table-cell">location</th>
-                                <th class="d-none d-md-table-cell">contact Number</th>
-                                <th class="d-none d-xl-table-cell">certificate</th>
-                                <th class="d-none d-xl-table-cell">city</th>
-                                <th class="d-none d-md-table-cell">image</th>
+                                <th class="d-none d-md-table-cell">Password</th>
+                                <th class="d-none d-md-table-cell">Location</th>
+                                <th class="d-none d-md-table-cell">Contact Number</th>
+                                <th class="d-none d-xl-table-cell">Certificate</th>
+                                <th class="d-none d-xl-table-cell">City</th>
+                                <th class="d-none d-md-table-cell">Image</th>
 
 
                             </tr>
@@ -127,13 +127,13 @@
                                         height="32px" width="32px"></td>
 
                                 <td class="record btnsearch"> <button class="btn btnsearch2 text-white"
-                                        style="background-color:#3A55A4;" type="submit"> <a
-                                            class="btnsearch2 text-white" href="accept/{{$h->id}}">accept</a></button>
+                                        style="background-color:#3389fc;" type="submit"> <a
+                                            class="btnsearch2 text-white" href="accept/{{$h->id}}">Accept</a></button>
                                 </td>
 
                                 <td class="record btnsearch"> <button class="btn btnsearch2 text-white"
                                         style="background-color:#D62600;" type="submit"> <a
-                                            class="btnsearch2 text-white" href="delete/{{$h->id}}">x</a></button>
+                                            class="btnsearch2 text-white" href="delete/{{$h->id}}">X</a></button>
                                 </td>
                             </tr>
 

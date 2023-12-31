@@ -81,14 +81,16 @@
                         class="text-primary"></span></a>
 
                 <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
-                    <li class="active"><a href="index.html" style="color:#0976B1; font-size:16px">Home</a></li>
+                    <li class="active"><a href="index.html" style="color:#3389fc; font-size:16px">Home</a></li>
                     <li class="has-children">
                        
-                    <li id="smalll"><a href="services.html" style="color:#0976B1; font-size:16px">Why us</a></li>
-                    <li><a href="about.html" style="color:#0976B1; font-size:16px">About</a></li>
-                    <li><a href="contact.html" style="color:#3B54A5; font-size:16px">Contact Us</a></li>
+                    <!-- <li id="smalll"><a href="services.html" style="color:#3389fc; font-size:16px">Why us</a></li> -->
+                    <li><a href="about.html" style="color:#3389fc; font-size:16px">About</a></li>
+                    <li><a href="contact.html" style="color:#3389fc; font-size:16px">Contact Us</a></li>
                     <li><a href="/loginform"> <button  type="button" class="btn btn-info"
                                 style="background-color:#3389FC; font-size:16px">Log In</button></a></li>
+                    <li><a href="./signupform"> <button  type="button" class="btn btn-info"
+                                style="background-color:#3389FC; font-size:16px">Sign Up</button></a></li>
 
                 </ul>
 
@@ -107,7 +109,7 @@
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="intro-wrap">
-                    <h1 class="mb-5" style="color:#203C71;"><span class="d-block">Your Health Is </span> Our <span
+                    <h1 class="mb-5" style="color:#010409;"><span class="d-block">Your Health Is </span> Our <span
                             class="typed-words"></span></h1>
 <!-- form start -->
                     <form class="form" method ="post" action ="{{route('get.data')}}">
@@ -128,14 +130,13 @@
                                                
                                                     <select class="form-control form-control-lg" name="daterange">
                                                         <option value="">Select Appointment Date</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
-                                                        <option value="20 March 2023">20 March 2023</option>
+                                                        <option value="01 January 2024">01 January 2024</option>
+                                                        <option value="02 January 2024">02 January 2024</option>
+                                                        <option value="03 January 2024">03 January 2024</option>
+                                                        <option value="04 January 2024">04 January 2024</option>
+                                                        <option value="05 January 2024">05 January 2024</option>
+                                                        <option value="06 January 2024">06 January 2024</option>
+                                                        <option value="07 January 2024">07 January 2024</option>
 
                                                     </select>
                                              
@@ -143,10 +144,10 @@
                             <div class="col-sm-12 col-md-6 mb-3 mb-lg-0 col-lg-4">
                                 <select name="vtype" id="" class="form-control custom-select">
                                     <option value="">Vaccine Type</option>
-                                    <option value="karachi">Karachi</option>
-                                    <option value="Islamabad">Islamabad</option>
-                                    <option value="Lahore">Lahore</option>
-                                    <option value="Queeta">Quetta</option>
+                                    <option value="Pfizer">Pfizer</option>
+                                    <option value="Moderna">Moderna</option>
+                                    <option value="Convidecia">Convidecia</option>
+                                    <option value="AstraZeneca">AstraZeneca</option>
                                 </select>
                             </div>
                         </div>
@@ -163,10 +164,10 @@
 
             <div class="col-lg-5">
                 <div class="slides">
-                    <img src="./header1.jpg" alt="Image" class="img-fluid active">
-                    <img src="./header2.jpg" alt="Image" class="img-fluid">
-                    <img src="./header3.jpg" alt="Image" class="img-fluid">
-                    <img src="./header1.jpg" alt="Image" class="img-fluid">
+                    <img src="./slide 1.png" alt="Image" class="img-fluid active">
+                    <img src="./slide 2.png" alt="Image" class="img-fluid">
+                    <img src="./slide 3.png" alt="Image" class="img-fluid">
+                    <img src="./slide 4.png" alt="Image" class="img-fluid">
                 </div>
             </div>
 
@@ -178,7 +179,7 @@
   <div class="container">
     <div class="row mb-5 justify-content-center">
       <div class="col-lg-6 text-center">
-        <h2 class="section-title text-center mb-3" style="font-family: 'Lato', sans-serif; font-size: 54px; color: #203C71;">Why Should I Vaccine?</h2>
+        <h2 class="section-title text-center mb-3" style="font-family: 'Lato', sans-serif; font-size: 54px; color: #010409;">Why Should I Vaccine?</h2>
       </div>
     </div>
     <div class="row align-items-stretch">
@@ -192,13 +193,13 @@
       <div class="col-12 col-md-6 col-lg-4 feature-1-wrap d-md-flex flex-md-column order-lg-1">
         <div class="feature-1 d-md-flex">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Prevents serious illness:</h3>
+            <h3 style="color: #010409;">Prevents serious illness:</h3>
             <p style="color: #0A77B1;" class="mb-0"> COVID-19 vaccines available in the United States are safe and effective at protecting people</p>
           </div>
         </div>
         <div class="feature-1 ">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Prevents outbreaks</h3>
+            <h3 style="color: #010409;">Prevents outbreaks</h3>
             <p style="color: #0A77B1;" class="mb-0"> When enough people in a community are vaccinated against a disease, it becomes much less likely to spread. </p>
           </div>
         </div>
@@ -206,13 +207,13 @@
       <div class="col-12 col-md-6 col-lg-4 feature-1-wrap d-md-flex flex-md-column order-lg-3">
         <div class="feature-1 d-md-flex">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Safe and effective</h3>
+            <h3 style="color: #010409;">Safe and effective</h3>
             <p style="color: #0A77B1;" class="mb-0">The risks of getting a vaccine are far less than the risks of getting the diseases they protect against</p>
           </div>
         </div>
         <div class="feature-1 d-md-flex">
           <div class="align-self-center">
-            <h3 style="color: #203C71;">Saves time and money</h3>
+            <h3 style="color: #010409;">Saves time and money</h3>
             <p style="color: #0A77B1;" class="mb-0">Preventing disease through vaccination saves time and money by avoiding the need for medical treatment, hospitalization</p>
           </div>
         </div>
@@ -269,7 +270,7 @@
         <div class="container">
             <div class="row text-center justify-content-center mb-5">
                 <div class="col-lg-7">
-                    <h2 class="section-title text-center" style ="color: #203C71;">Hospitals</h2>
+                    <h2 class="section-title text-center" style ="color: #010409;">Hospitals</h2>
                 </div>
             </div>
 
@@ -338,7 +339,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center">
-                    <h2 class="section-title text-center mb-5" style ="color: #203C71;">Testimonials</h2>
+                    <h2 class="section-title text-center mb-5" style ="color: #010409;">Testimonials</h2>
 
                     <div class="owl-single owl-carousel no-nav">
                         <div class="testimonial mx-auto">
@@ -411,7 +412,7 @@
         </div>
       </div>
       <div class="col-lg-5 pl-lg-5 mt-5 mt-lg-0">
-        <h2 class="section-title mb-4" style ="color: #203C71;">About Anti-Covid</h2>
+        <h2 class="section-title mb-4" style ="color: #010409;">About Anti-Covid</h2>
         <p class="mb-4">Our mission is to provide reliable and accurate information about vaccines, specifically focusing on COVID vaccines, and promote the importance of vaccination for all age groups. We believe that every individual deserves access to the tools and knowledge necessary to make informed decisions about their health, and COVID vaccines are a critical component of that.</p>
 
         <p class="mb-4">Our team of experts includes healthcare professionals, scientists, and communicators who are passionate about public health and dedicated to sharing the latest research and recommendations regarding COVID vaccines. We strive to make our content accessible to everyone, including parents, caregivers, educators, and healthcare providers.</p>

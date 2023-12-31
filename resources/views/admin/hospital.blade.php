@@ -99,12 +99,12 @@
                                 <th>Id</th>
                                 <th class="d-none d-xl-table-cell">Name</th>
                                 <th class="d-none d-xl-table-cell">Email</th>
-                                <th class="d-none d-md-table-cell">password</th>
-                                <th class="d-none d-md-table-cell">location</th>
-                                <th class="d-none d-md-table-cell">contact Number</th>
-                                <th class="d-none d-xl-table-cell">certificate</th>
-                                <th class="d-none d-xl-table-cell">city</th>
-                                <th class="d-none d-md-table-cell">image</th>
+                                <th class="d-none d-md-table-cell">Password</th>
+                                <th class="d-none d-md-table-cell">Location</th>
+                                <th class="d-none d-md-table-cell">Contact Number</th>
+                                <th class="d-none d-xl-table-cell">Certificate</th>
+                                <th class="d-none d-xl-table-cell">City</th>
+                                <th class="d-none d-md-table-cell">Image</th>
 
 
                             </tr>
@@ -127,8 +127,8 @@
                                         height="32px" width="32px"></td>
 
                                 <td class="record btnsearch"> <button class="btn btnsearch2 text-white"
-                                        style="background-color:#3A55A4;" type="submit"> <a
-                                            class="btnsearch2 text-white" href="edit/{{$h->id}}">update</a></button>
+                                        style="background-color:#3389fc;" type="submit"> <a
+                                            class="btnsearch2 text-white" href="edit/{{$h->id}}">Update</a></button>
                                 </td>
 
                                 <td class="record btnsearch"> <button class="btn btnsearch2 text-white"

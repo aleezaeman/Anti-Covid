@@ -90,7 +90,7 @@ section {
                                     <div class="text-center mt-4">
                                         <h1 style="color:#3389fc;  font-size:30px;" class="h2">Join us ,Let's Be Anti-Covid
                                         </h1>
-                                        <p class="lead">You will be notified if Your request get accepted</p>
+                                        <p class="lead">Register Yourself</p>
                                     </div>
                                     <div class="text-center">
                                         <img src="./anti-covid_logo.png" alt="Charles Hall" class="img-fluid" width="132"

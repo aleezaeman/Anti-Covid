@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>parents Admin Panel</title>
+    <title>Parents Admin Panel</title>
 
         <!-- App CSS -->  
         <link id="theme-style" rel="stylesheet" href="assets/css/portal.css">

@@ -74,9 +74,10 @@
                         <h5 class="card-title mb-0">Profile Details</h5>
                     </div>
                     <div class="card-body text-center">
-                        <img src="./vesctor.png" alt="Christina Mason"
-                            class="img-fluid rounded-circle mb-2 profile-image" />
-                        <h5 class="card-title mb-0">U K</h5>
+                        <img src="./Myprofile.jpg" alt="Me"
+                        class="img-fluid rounded-circle mb-2" width="128"
+                    height="88" />
+                        <h5 class="card-title mb-0">Aleeza</h5>
                         <div class="text-muted mb-2">Graphic Designer | Web Developer</div>
                     </div>
                     <hr class="my-0" />
@@ -128,16 +129,12 @@
                                         <tbody>
                                             <tr>
                                                 <td class="fw-bold">Username</td>
-                                                <td class="text-end">Ume Kulsoom</td>
+                                                <td class="text-end">Aleeza</td>
                                             </tr>
                                             <tr>
                                                 <td class="fw-bold">Email</td>
                                                 <td class="text-end">
-                                                    @if(session('email'))
-                                               
-                                                        {{session('email')}}
-                                                
-                                                    @endif
+                                                    aleeza@gmail.com
                                                 </td>
                                             </tr>
                                             <tr>
@@ -156,7 +153,7 @@
                                             </tr>
                                             <tr>
                                                 <td class="fw-bold">Project Name</td>
-                                                <td class="text-end">Immunify</td>
+                                                <td class="text-end">Anti-Covid</td>
                                             </tr>
                                             <tr>
                                                 <td class="fw-bold">Beginning Date</td>

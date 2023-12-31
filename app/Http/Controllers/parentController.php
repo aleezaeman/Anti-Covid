@@ -19,6 +19,11 @@ class parentController extends Controller
         return view ('parents.parentSignin');
     }
 
+    public function signupForm()
+{
+    return view('immunify.signupform');
+}
+
 
 
     function parentSigninPostFunc(request $request){

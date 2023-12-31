@@ -16,7 +16,7 @@
                 <div class="card flex-fill">
                     <div class="card-header">
 
-                        <h5 class="card-title mb-0">Parents Data</h5>
+                        <h5 class="card-title mb-0">Patients Data</h5>
                     </div>
                     <table class="table table-hover my-0">
                         <thead>
@@ -24,12 +24,12 @@
 
 
                                 <th>Id</th>
-                                <th class="d-none d-xl-table-cell">name</th>
-                                <th class="d-none d-xl-table-cell">email</th>
+                                <th class="d-none d-xl-table-cell">Name</th>
+                                <th class="d-none d-xl-table-cell">Email</th>
                                 <th>password</th>
-                                <th class="d-none d-md-table-cell">contact Number</th>
-                                <th class="d-none d-md-table-cell">city</th>
-                                <th class="d-none d-md-table-cell">parent Image</th>
+                                <th class="d-none d-md-table-cell">Contact Number</th>
+                                <th class="d-none d-md-table-cell">City</th>
+                                <th class="d-none d-md-table-cell">Patient Image</th>
 
                             </tr>
                         </thead>
