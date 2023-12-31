@@ -171,11 +171,7 @@
                             </tr>
                             <tr>
                                 <td>Phone</td>
-                                <td class="text-end"> @if(session('contactNumber'))
-                                                  
-                                                  {{session('contactNumber')}}
-                                            
-                                              @endif</td>
+                                <td class="text-end">0312457832</td>
 
                             </tr>
                             <tr>

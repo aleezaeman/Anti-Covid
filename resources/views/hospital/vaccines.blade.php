@@ -113,15 +113,15 @@
 
                         <table>
                             <tr>
-                                <h4 style="color: #0A77B1;" class=" mb-0">vaccines</h4>
+                                <h4 style="color: #3389fc;" class=" mb-0">Vaccines</h4>
 
                                 <div class=" text-end">
 
-                                <a href="patientsmore" style="margin-top: 0; color: #3A55A4; margin-left: 9px;" class="btn btn-lg m-t5">
+                                <a href="patientsmore" style="margin-top: 0; color: #3389fc; margin-left: 9px;" class="btn btn-lg m-t5">
 
 
 
-                                        add</a>
+                                        Add</a>
 
 
                                     <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->

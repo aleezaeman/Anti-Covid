@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>Admin Panel</title>
+    <title>Booking Vaccine</title>
 
         <!-- App CSS -->  
         <link id="theme-style" rel="stylesheet" href="../assets/css/portal.css">
@@ -60,11 +60,11 @@
 <body>
     <div class="wrapper">
         <nav id="sidebar" class="sidebar js-sidebar" >
-            <div  style="background-color:#0a77b1;" class="sidebar-content js-simplebar">
+            <div  style="background-color:#3389fc;" class="sidebar-content js-simplebar">
                 <a class="sidebar-brand" href="index.html">
                   <span class=" align-middle">  
              
-                  <img src="../vesctor.png" class="rounded-circle" height="60px" width="60px"></span>
+                  <img src="../Profile.jpg" class="rounded-circle" height="80px" width="60px"></span>
                   
                 </span>
                 </a>
@@ -75,22 +75,22 @@
                     </li>
 
                     <li class="sidebar-item " >
-                        <a class="sidebar-link" href="parentOverview" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentOverview" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="sliders"></i> <span
                                 class="align-middle">Home</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentProfile" style="background-color:#0a77b1;">
-                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">profile</span>
+                        <a class="sidebar-link" href="parentProfile" style="background-color:#3389fc;">
+                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">Profile</span>
                         </a>
                     </li>
 
 
 
                     <li class="sidebar-item"> 
-                        <a class="sidebar-link" href="parentSchedule" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentSchedule" style="background-color:#3389fc;">
                             	<i class="align-middle me-2" data-feather="calendar"></i></i> <span class="align-middle">Schedule</span>
                         </a>
                     </li>
@@ -100,13 +100,13 @@
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentAppointment" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentAppointment" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="square"></i> <span class="align-middle">Appointment</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="{{url('/parentHospitals')}}" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="{{url('/parentHospitals')}}" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="check-square"></i> <span
                                 class="align-middle">Hospitals</span>
                         </a>
@@ -115,14 +115,14 @@
          
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentVaccine" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentVaccine" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="database"></i> <span
                                 class="align-middle">Vaccines</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentMedicalreport"style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentMedicalreport"style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="user"></i> <span class="align-middle">Medical Report</span>
                         </a>
                     </li>
@@ -259,7 +259,7 @@
 
                         <table>
                             <tr>
-                                <h4 style="color: #0A77B1;" class=" mb-0">book vaccine</h4>
+                                <h4 style="color: #3389fc;" class=" mb-0">Book Vaccine</h4>
 
                             </tr>
                             <table>
@@ -270,13 +270,13 @@
                    <div class="col-md-6 col-lg-12 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Book Appointment,Let's Immunify
+                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Book Appointment, Get Covid Free
                                         </h1>
                                         <p class="lead">You will be notified if Your request get accepted</p>
                                     </div>
                                     <div class="text-center">
-                                        <img src="./anti-covid_logo.png" alt="logo" class="img-fluid" width="132"
-                                            height="132" />
+                                        <img src="../anti-covid_logo.png" alt="logo" class="img-fluid" width="132"
+                                            height="142" />
                                     </div>
                                     <br>
                                     <form method="POST" action="/bookingVaccinePOST" enctype="multipart/form-data">
@@ -285,9 +285,9 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="mb-3">
-                                                    <label class="form-label">patient Name</label>
+                                                    <label class="form-label">Patient Name</label>
                                                     <input class="form-control form-control-lg" type="text"
-                                                        name="fname" placeholder="Enter Child name" />
+                                                        name="fname" placeholder="Enter Patient Name" />
                                                     @error('fname')
                                                     <div class="text-danger">{{ $message }}</div>
                                                     @enderror
@@ -301,9 +301,9 @@
                                                     @enderror
                                                 </div>
                                                 <div class="mb-3">
-                                                    <label class="form-label">age</label>
+                                                    <label class="form-label">Age</label>
                                                     <input class="form-control form-control-lg" type="text"
-                                                        name="age" placeholder="Enter age" />
+                                                        name="age" placeholder="Enter Age" />
                                                     @error('age')
                                                     <div class="text-danger">{{ $message }}</div>
                                                     @enderror
@@ -323,7 +323,7 @@
                                                 </div>
 
                                                 <div class="mb-3">
-                                                    <label class="form-label">vaccine Type</label>
+                                                    <label class="form-label">Vaccine Type</label>
                                                     <select class="form-control form-control-lg" name="vaccineType">
                                                         <option value="">Select Hospital Timing</option>
                                                         <option value="polio">Pfizer-BioNTech</option>
@@ -343,7 +343,7 @@
 
                                             <div class="col-md-6">
                                                 <div class="mb-3">
-                                                    <label class="form-label">last name</label>
+                                                    <label class="form-label">Last name</label>
                                                     <input class="form-control form-control-lg" type="text" 
                                                         name="lname" placeholder="Enter last name" />
                                                     @error('lname')
@@ -351,17 +351,17 @@
                                                     @enderror
                                                 </div>
                                                 <div class="mb-3">
-                                                    <label class="form-label">if any medical issue</label>
+                                                    <label class="form-label">If any Medical Issue</label>
                                                     <input class="form-control form-control-lg" type="text"
-                                                        name="medicalIssue" placeholder="medical issue" />
+                                                        name="medicalIssue" placeholder="Medical Issue" />
                                                     @error('medicalIssue')
                                                     <div class="text-danger">{{ $message }}</div>
                                                     @enderror
                                                 </div>
                                                 <div class="mb-3">
-                                                    <label class="form-label">weight</label>
+                                                    <label class="form-label">Weight</label>
                                                     <input class="form-control form-control-lg" type="text"
-                                                        name="weight" placeholder="Enter weight" />
+                                                        name="weight" placeholder="Enter Weight" />
                                                     @error('weight')
                                                     <div class="text-danger">{{ $message }}</div>
                                                     @enderror
@@ -370,7 +370,7 @@
                                             
 
                                                 <div class="mb-3">
-                                                    <label class="form-label">date</label>
+                                                    <label class="form-label">Date</label>
                                                     <select class="form-control form-control-lg" name="date">
                                                         <option value="">Select Appointment Date</option>
                                                         <option value="21 March">21 March</option>
@@ -387,7 +387,7 @@
                                                 </div>
 
                                                 <div class="mb-3">
-                                                    <label class="form-label">Child Images</label>
+                                                    <label class="form-label">Patient Images</label>
                                                     <input class="form-control form-control-lg" type="file" 
                                                         name="childImage" placeholder="Enter hospital Images" />
                                                     @error('childImage')
@@ -463,7 +463,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 fill: true,
              
                 backgroundColor: gradient,
-                borderColor:"#0A77B1",
+                borderColor:"#3389fc",
                 data: [
                     2115,
                     1562,
@@ -585,7 +585,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 xAxes: [{
                     stacked: false,
                     gridLines: {
-                        color: "#0A77B1"
+                        color: "#3389fc"
                     }
                 }]
             }

@@ -72,7 +72,7 @@
     </div>
 </li>
 
-                                        <a href="index.html" style=" color:#3A55A4 "
+                                        <a href="index.html" style=" color:#3389fc "
                                             class="btn btn-lg m-t5">
                                             logout</a>
                                
@@ -96,7 +96,7 @@
 
 <table>
     <tr>
-        <td style="color: #0A77B1;" class="app-page-title">Recent Patients</td>
+        <td style="color: #3389fc;" class="app-page-title">Recent Patients</td>
         <td>
             <div class="mt-3 text-end">
               
@@ -117,7 +117,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn
                         -lg btn-primary">Sign up</button> -->
@@ -139,7 +139,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>
@@ -159,7 +159,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>
@@ -182,7 +182,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn
                         -lg btn-primary">Sign up</button> -->
@@ -204,7 +204,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>
@@ -224,7 +224,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>
@@ -246,7 +246,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn
                         -lg btn-primary">Sign up</button> -->
@@ -268,7 +268,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>
@@ -288,7 +288,7 @@
                     <div class="text-muted">clinic and pharmacy</div>
 
                     <div class="mt-3">
-                        <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
+                        <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
                             view more</a>
                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                     </div>

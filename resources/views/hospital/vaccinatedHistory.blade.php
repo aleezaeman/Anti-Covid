@@ -99,19 +99,19 @@
 
 
                                 <th>Id</th>
-                                <th class="d-none d-xl-table-cell">first name</th>
-                                <th class="d-none d-xl-table-cell">last name</th>
-                                <th>date of birth</th>
-                                <th class="d-none d-md-table-cell">age</th>
-                                <th class="d-none d-md-table-cell">weight</th>
-                                <th class="d-none d-md-table-cell">medical issue</th>
-                                <th class="d-none d-xl-table-cell">date</th>
+                                <th class="d-none d-xl-table-cell">First name</th>
+                                <th class="d-none d-xl-table-cell">Last name</th>
+                                <th>Date of Birth</th>
+                                <th class="d-none d-md-table-cell">Age</th>
+                                <th class="d-none d-md-table-cell">Weight</th>
+                                <th class="d-none d-md-table-cell">Medical issue</th>
+                                <th class="d-none d-xl-table-cell">Date</th>
                                 <th>timing</th>
-                                <th class="d-none d-md-table-cell">vaccine</th>
+                                <th class="d-none d-md-table-cell">Vaccine</th>
                             
-                                <th class="d-none d-md-table-cell">patient Image</th>
-                                <th class="d-none d-md-table-cell">parent</th>
-                                <th class="d-none d-md-table-cell">hospital</th>
+                                <th class="d-none d-md-table-cell">Patient Image</th>
+                                <!-- <th class="d-none d-md-table-cell">Parent</th> -->
+                                <th class="d-none d-md-table-cell">Hospital</th>
                         
 
                             </tr>
@@ -137,7 +137,7 @@
                                         height="32px" width="32px"></td>
                         
 
-                                        <td class="d-none d-xl-table-cell"> {{$b->parent_name}}</td>
+                                        <!-- <td class="d-none d-xl-table-cell"> {{$b->parent_name}}</td> -->
 
                                         <td class="d-none d-xl-table-cell"> {{$b->hospital_name}}</td>
                             

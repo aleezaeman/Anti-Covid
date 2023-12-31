@@ -74,7 +74,7 @@
 
                 <a href="index.html" style=" color:#3A55A4 "
                                             class="btn btn-lg m-t5">
-                                            logout</a>
+                                            Logout</a>
             </ul>
         </div>
     </nav>
@@ -101,7 +101,7 @@
                         
                                         <a href="index.html" style=" color:#3A55A4 "
                                             class="btn btn-lg m-t5">
-                                            edit</a>
+                                            Edit</a>
                              
 
 
@@ -148,13 +148,13 @@
                                     <tbody>
 
                                         <tr>
-                                            <td>name</td>
-                                            <td class="text-end">name</td>
+                                            <td>Name</td>
+                                            <td class="text-end">Covid Free</td>
                                  
                                           
                                         </tr>
                                         <tr>
-                                            <td>email</td>
+                                            <td>Email</td>
                                             <td class="text-end">  @if(session('email'))
                                                   
                                                         {{session('email')}}
@@ -163,7 +163,7 @@
                                 
                                         </tr>
                                         <tr>
-                                            <td>password</td>
+                                            <td>Password</td>
                                             <td class="text-end">  @if(session('password'))
                                                   
                                                         {{session('password')}}
@@ -177,12 +177,12 @@
                                          
                                         </tr>
                                         <tr>
-                                            <td>collabration</td>
+                                            <td>Collabration</td>
                                             <td class="text-end">Anti-Covid</td>
                                            
                                         </tr>
                                         <tr>
-                                            <td>begining date</td>
+                                            <td>Begining date</td>
                                             <td class="text-end">12-1-23</td>
                                            
                                         </tr>

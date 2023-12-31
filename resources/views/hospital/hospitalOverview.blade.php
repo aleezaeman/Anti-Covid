@@ -77,7 +77,7 @@
                         </div>
                     </div>
                 </li>
-                <a href="/hospitalLogout" style=" color:#3A55A4 "
+                <a href="/hospitalLogout" style=" color:#3389fc "
                                             class="btn btn-lg m-t5">
                                             logout</a>
             </ul>
@@ -93,7 +93,7 @@
 	<div class="app-content pt-3 p-md-3 p-lg-4">
             <div class="container-xl">
 
-                <h1 style="color: #0A77B1;" class="app-page-title">Medical test</h1>
+                <h1 style="color: #3389fc;" class="app-page-title">Medical test</h1>
 
                 <div class="app-card alert alert-dismissible shadow-sm mb-4" role="alert">
                     <div class="inner">
@@ -103,12 +103,12 @@
                                 <div class="col-12 col-lg-9">
 
                                     <h1 style=" color:#203C71;font-size:55px">
-                                        The annual check <br> is coming soon
+                                        Get<br>Covid Free
                                     </h1>
-                                    <h6 class="mb-3 text-muted">Tomorrow, Jan 22,
-                                        2023</h6>
+                                    <h6 class="mb-3 text-muted">Tomorrow, Jan 2,
+                                        2024</h6>
                                     <div class="mt-3">
-                                        <a href="index.html" style="background-color:#3A55A4;"
+                                        <a href="index.html" style="background-color:#3389fc;"
                                             class="btn btn-lg text-white m-t5"> +
                                             Add to Calender</a>
                                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
@@ -140,7 +140,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">New Patients</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">New Patients</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -161,7 +161,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">Monthly Visitors</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">Monthly Visitors</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -184,7 +184,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title" style="color: #0A77B1;">Appointments</h5>
+                                                <h5 class="card-title" style="color: #3389fc;">Appointments</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -205,7 +205,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col mt-0">
-                                                <h5 class="card-title"  style="color: #0A77B1;" >Requests</h5>
+                                                <h5 class="card-title"  style="color: #3389fc;" >Requests</h5>
                                             </div>
 
                                             <div class="col-auto">
@@ -231,7 +231,7 @@
 				<div class="card flex-fill w-100 mt-2">
                         <div class="card-header">
 
-                            <h5 style="color: #0A77B1;"  class="card-title mb-0">Requests</h5>
+                            <h5 style="color: #3389fc;"  class="card-title mb-0">Requests</h5>
                         </div>
                         <div class="card-body d-flex">
                             <div class="align-self-center w-100">
@@ -245,7 +245,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">  24   </td>
-                                            <td><span style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                           
                                         </tr>
@@ -254,7 +254,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                         <tr>
@@ -262,7 +262,7 @@
                                             <td class="text-end">3:00 pm</td>
                                             <td class="text-end">Indus</td>
                                             <td class="text-end">13-10-22</td>
-                                            <td><span  style="background-color:#3A55A4;" class="btn text-white ">Accept</span></td>
+                                            <td><span  style="background-color:#3389fc;" class="btn text-white ">Accept</span></td>
                                             <td><span class="btn ">x</span></td>
                                         </tr>
                                    
@@ -279,11 +279,11 @@
 
                     <table>
                         <tr>
-                            <td style="color: #0A77B1;" class="app-page-title">Recent Patients</td>
+                            <td style="color: #3389fc;" class="app-page-title">Recent Patients</td>
                             <td>
                                 <div class="mt-3 text-end">
                                     <a href="patientsmore" style=" margin-left:120px">
-                                        view more</a>
+                                        View more</a>
                                     <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                 </div>
                             </td>
@@ -301,8 +301,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn
                                             -lg btn-primary">Sign up</button> -->
                                         </div>
@@ -323,8 +323,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                         </div>
                                     </div>
@@ -343,8 +343,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                         </div>
                                     </div>
@@ -362,11 +362,11 @@
 
                 <table>
                     <tr>
-                        <td style="color: #0A77B1;" class="app-page-title">vaccines</td>
+                        <td style="color: #3389fc;" class="app-page-title">Vaccines</td>
                         <td>
                             <div class="mt-3 text-end">
                                 <a href="hospitalVaccines" style=" margin-left:120px">
-                                    view more</a>
+                                    View more</a>
                                 <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                             </div>
                         </td>
@@ -390,7 +390,7 @@
 
 
                                             <div class="col-auto">
-                                                <h4 style="color:#203C71;" class="app-card-title">Ibpprofen Karoten</h4>
+                                                <h4 style="color:#203C71;" class="app-card-title">Moderna</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -403,9 +403,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="index.html" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="index.html" style="border-color:#3389fc; color:#3389fc "
                                             class="btn btn-lg m-t5">
-                                            edit</a>
+                                            Edit</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
@@ -426,7 +426,7 @@
 
                                             <!--//col-->
                                             <div class="col-auto">
-                                                <h4 style="color:#203C71;" class="app-card-title">Ibpprofen Karoten</h4>
+                                                <h4 style="color:#203C71;" class="app-card-title">Pfizer-BioNTech</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -439,9 +439,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="index.html" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="index.html" style="border-color:#3389fc; color:#3389fc "
                                             class="btn btn-lg m-t5">
-                                            edit</a>
+                                            Edit</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
