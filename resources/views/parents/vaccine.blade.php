@@ -72,7 +72,7 @@
     </div>
 </li>
 
-                                        <a href="index.html" style=" color:#3A55A4 "
+                                        <a href="index.html" style=" color:#3b7ddd "
                                             class="btn btn-lg m-t5">
                                             logout</a>
                                
@@ -95,7 +95,7 @@
     <div class="row g-4 mb-4">
     <table>
                     <tr>
-                        <td style="color: #0A77B1;" class="app-page-title">current vaccines</td>
+                        <td style="color: #3b7ddd;" class="app-page-title">Current vaccines</td>
                         <td>
                       
                         </td>
@@ -132,9 +132,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="#" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="#" style="border-color:#3b7ddd; color:#3b7ddd "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
@@ -168,9 +168,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="#" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="#" style="border-color:#3b7ddd; color:#3b7ddd "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
@@ -195,7 +195,7 @@
 
 
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Johnson </h4>
+                                                <h4 class="app-card-title">Convidecia</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -208,9 +208,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="#" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="#" style="border-color:#3b7ddd; color:#3b7ddd "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
@@ -244,9 +244,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="#" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="#" style="border-color:#3b7ddd; color:#3b7ddd "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>

@@ -72,9 +72,9 @@
     </div>
 </li>
 
-                                        <a href="index.html" style=" color:#3A55A4 "
+                                        <a href="index.html" style=" color:#3389fc "
                                             class="btn btn-lg m-t5">
-                                            logout</a>
+                                            Logout</a>
                                
 </ul>
 </div>
@@ -95,7 +95,7 @@
                 <div class="card flex-fill w-100">
                     <div class="card-header">
 
-                        <h5 style="color: #0A77B1;" class="card-title mb-0">Tasks</h5>
+                        <h5 style="color: #3389fc;" class="card-title mb-0">Tasks</h5>
                     </div>
                     <div class="card-body d-flex">
                         <div class="w-100">
@@ -113,17 +113,17 @@
                                         <td>Appointment</td>
                                         <td>12:00 am</td>
                                         <td >Agha khan hospital</td>
-                                        <td><span style="background-color:#3A55A4;"
-                                                class="btn text-white ">done</span></td>
+                                        <td><span style="background-color:#3389fc;"
+                                                class="btn text-white ">Done</span></td>
                                         <td><span class="btn ">x</span></td>
 
                                     </tr>
                                     <tr>
-                                    <td>consultance</td>
+                                    <td>Consultance</td>
                                         <td>3:00 pm</td>
                                         <td >Dr Ayesha</td>
-                                        <td><span style="background-color:#3A55A4;"
-                                                class="btn text-white ">done</span></td>
+                                        <td><span style="background-color:#3389fc;"
+                                                class="btn text-white ">Done</span></td>
                                         <td><span class="btn ">x</span></td>
                                     </tr>
                                     <tr>
@@ -147,7 +147,7 @@
                 <div class="card flex-fill w-100">
                     <div class="card-header">
 
-                        <h5 style="color: #0A77B1;" class="card-title mb-0">To do list</h5>
+                        <h5 style="color: #3389fc;" class="card-title mb-0">To do list</h5>
                     </div>
                     <div class="card-body d-flex">
                         <div class="align-self-center w-100">
@@ -155,20 +155,20 @@
 
                         <form>
 										<div class="mb-3">
-											<label class="form-label">task date</label>
-											<input class="form-control form-control-lg" type="text" name="hospitalName" placeholder="Enter task" />
+											<label class="form-label">Task Date</label>
+											<input class="form-control form-control-lg" type="text" name="hospitalName" placeholder="Enter Task" />
 										</div>
 										<div class="mb-3">
-											<label class="form-label">task time</label>
-											<input class="form-control form-control-lg" type="text" name="hospitalAddress" placeholder="Enter task time" />
+											<label class="form-label">Task Time</label>
+											<input class="form-control form-control-lg" type="text" name="hospitalAddress" placeholder="Enter Task time" />
 										</div>
 										<div class="mb-3">
-											<label class="form-label">more</label>
-											<input class="form-control form-control-lg" type="text" name="hospitalContact" placeholder="Enter description" />
+											<label class="form-label">More</label>
+											<input class="form-control form-control-lg" type="text" name="hospitalContact" placeholder="Enter Description" />
 										</div>
 								
 										<div class="text-center mt-3">
-											<a href="index.html" style="background-color:#3A55A4;" class="btn btn-lg text-white ">Add Task</a>
+											<a href="index.html" style="background-color:#3389fc;" class="btn btn-lg text-white ">Add Task</a>
 											<!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
 										</div>
 									</form>
@@ -178,7 +178,7 @@
                                 <div class="card flex-fill">
                                     <div class="card-header">
 
-                                        <h5 style="color: #0A77B1;" class="card-title mb-0">Calendar</h5>
+                                        <h5 style="color: #3389fc;" class="card-title mb-0">Calendar</h5>
                                     </div>
                                     <div class="card-body d-flex">
                                         <div class="align-self-center w-100">

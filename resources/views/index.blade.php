@@ -379,7 +379,7 @@
         </div>
     </div>
 
-    <div class="hero hero-inner" style="background-color:#0a77b1;">
+    <div class="hero hero-inner" style="background-color:#3389fc;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mx-auto text-center">
@@ -425,7 +425,7 @@
 
 
 
-<div class="hero hero-inner" style="background-color:#0a77b1;">
+<div class="hero hero-inner" style="background-color:#3389fc;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mx-auto text-center">
@@ -504,7 +504,7 @@
 
 
 
-    <div class="py-5 cta-section"  style="background-color:#0a77b1;">
+    <div class="py-5 cta-section"  style="background-color:#3389fc;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12">

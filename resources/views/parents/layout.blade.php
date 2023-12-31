@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>Admin Panel</title>
+    <title>parents Admin Panel</title>
 
         <!-- App CSS -->  
         <link id="theme-style" rel="stylesheet" href="assets/css/portal.css">
@@ -42,9 +42,9 @@
 
 
 .flatpickr-day.selected {
-  background-color: #3A55A4!important;
+  background-color: #3389fc!important;
   color:"white";
-  border-color: #3A55A4;
+  border-color: #3389fc;
 }
 
 /* Change the border and fill color of the today's date */
@@ -60,11 +60,11 @@
 <body>
     <div class="wrapper">
         <nav id="sidebar" class="sidebar js-sidebar" >
-            <div  style="background-color:#0a77b1;" class="sidebar-content js-simplebar">
+            <div  style="background-color:#3389fc;" class="sidebar-content js-simplebar">
                 <a class="sidebar-brand" href="index.html">
                   <span class=" align-middle">  
              
-                  <img src="./vesctor.png" class="rounded-circle" height="60px" width="60px"></span>
+                  <img src="./Profile.jpg" class="rounded-circle" height="80px" width="60px"></span>
                   
                 </span>
                 </a>
@@ -75,26 +75,26 @@
                     </li>
 
                     <li class="sidebar-item " >
-                        <a class="sidebar-link" href="parentOverview" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentOverview" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="sliders"></i> <span
                                 class="align-middle">Home</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentProfile" style="background-color:#0a77b1;">
-                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">profile</span>
+                        <a class="sidebar-link" href="parentProfile" style="background-color:#3389fc;">
+                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">Profile</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="/logout" style="background-color:#0a77b1;">
-                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">log out</span>
+                        <a class="sidebar-link" href="/logout" style="background-color:#3389fc;">
+                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">Log out</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item"> 
-                        <a class="sidebar-link" href="parentSchedule" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentSchedule" style="background-color:#3389fc;">
                             	<i class="align-middle me-2" data-feather="calendar"></i></i> <span class="align-middle">Schedule</span>
                         </a>
                     </li>
@@ -106,7 +106,7 @@
                
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentHospitals" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentHospitals" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="check-square"></i> <span
                                 class="align-middle">Hospitals</span>
                         </a>
@@ -115,14 +115,14 @@
          
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentVaccine" style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentVaccine" style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="database"></i> <span
                                 class="align-middle">Vaccines</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="parentMedicalreport"style="background-color:#0a77b1;">
+                        <a class="sidebar-link" href="parentMedicalreport"style="background-color:#3389fc;">
                             <i class="align-middle" data-feather="user"></i> <span class="align-middle">Medical Report</span>
                         </a>
                     </li>
@@ -271,11 +271,11 @@ document.addEventListener("DOMContentLoaded", function() {
             ],
             datasets: [{
                 label: "This year",
-                color:"#3A55A4",
-                backgroundColor:"#3A55A4",
-                borderColor: "#3A55A4",
-                hoverBackgroundColor: "#3A55A4",
-                hoverBorderColor:"#3A55A4",
+                color:"#3389fc",
+                backgroundColor:"#3389fc",
+                borderColor: "#3389fc",
+                hoverBackgroundColor: "#3389fc",
+                hoverBorderColor:"#3389fc",
                 data: [54, 67, 41, 55, 62, 45, 55, 73, 60, 76, 48, 79],
                 barPercentage: .75,
                 categoryPercentage: .5

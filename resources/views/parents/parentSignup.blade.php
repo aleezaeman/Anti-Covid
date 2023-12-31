@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/pages-sign-up.html" />
 
-    <title>Sign Up</title>
+    <title>Patient Sign Up</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="css/app.css" rel="stylesheet">
@@ -172,7 +172,7 @@ section {
                                                 </div>
 
                                                 <div class="mb-3">
-                                                    <label class="form-label"> patient Profile</label>
+                                                    <label class="form-label"> Patient Profile</label>
                                                     <input class="form-control form-control-lg" type="file"
                                                         name="parentImage" placeholder="Enter profile Image" />
                                                     @error('parentImage')

@@ -30,9 +30,12 @@ class parentController extends Controller
      $login = DB::table("user_parents")->select('email')->where(['email'=>$email,'password'=>$password])->first();
      $loginId = DB::table("user_parents")->select('id')->where(['email'=>$email,'password'=>$password])->first();
      $loginPass = DB::table("user_parents")->select('password')->where(['email'=>$email,'password'=>$password])->first();
+     $loginname = DB::table("user_parents")->select('name')->where(['email'=>$email,'password'=>$password])->first();
+
+
 
      if($login && $loginPass){
-         session(['email'=>$login->email,'password'=>$loginPass->password,'id'=> $loginId->id]);
+         session(['email'=>$login->email,'password'=>$loginPass->password,'id'=> $loginId->id,'name'=>$loginname]);
          return view('parents.parentOverview');
 
      }

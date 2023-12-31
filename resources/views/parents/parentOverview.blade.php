@@ -19,7 +19,7 @@
         <div class="app-content pt-3 p-md-3 p-lg-4">
             <div class="container-xl">
 
-                <h1 style="color: #0A77B1;" class="app-page-title">Medical test</h1>
+                <h1 style="color: #3389fc;" class="app-page-title">Vaccination</h1>
 
                 <div class="app-card alert alert-dismissible shadow-sm mb-4" role="alert">
                     <div class="inner">
@@ -29,12 +29,12 @@
                                 <div class="col-12 col-lg-9">
 
                                     <h1 style=" color:#203C71;font-size:55px">
-                                        The annual check <br> is coming soon
+                                        Get <br> Covid Free
                                     </h1>
-                                    <h6 class="mb-3 text-muted">Tomorrow, Jan 22,
-                                        2023</h6>
+                                    <h6 class="mb-3 text-muted">Tomorrow, Jan 2,
+                                        2024</h6>
                                     <div class="mt-3">
-                                        <a href="index.html" style="background-color:#3A55A4;"
+                                        <a href="index.html" style="background-color:#3389fc;"
                                             class="btn btn-lg text-white m-t5"> +
                                             Add to Calender</a>
                                         <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
@@ -64,11 +64,11 @@
 
                     <table>
                         <tr>
-                            <td style="color: #0A77B1;" class="app-page-title">visit the hospitals</td>
+                            <td style="color: #3389fc;" class="app-page-title">Visit the hospitals</td>
                             <td>
                                 <div class="mt-3 text-end">
                                     <a href="index.html" style=" margin-left:120px">
-                                        view more</a>
+                                        View more</a>
                                     <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                 </div>
                             </td>
@@ -86,8 +86,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn
                                             -lg btn-primary">Sign up</button> -->
                                         </div>
@@ -108,8 +108,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                         </div>
                                     </div>
@@ -128,8 +128,8 @@
                                         <div class="text-muted">clinic and pharmacy</div>
 
                                         <div class="mt-3">
-                                            <a href="index.html" style="color:#3A55A4;" class="btn btn-lg  m-t5">
-                                                view more</a>
+                                            <a href="index.html" style="color:#3389fc;" class="btn btn-lg  m-t5">
+                                                View more</a>
                                             <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                                         </div>
                                     </div>
@@ -147,11 +147,11 @@
 
                 <table>
                     <tr>
-                        <td style="color: #0A77B1;" class="app-page-title">current vaccines</td>
+                        <td style="color: #3389fc;" class="app-page-title">Current vaccines</td>
                         <td>
                             <div class="mt-3 text-end">
                                 <a href="index.html" style=" margin-left:120px">
-                                    view more</a>
+                                    View more</a>
                                 <!-- <button type="submit" class="btn btn-lg btn-primary">Sign up</button> -->
                             </div>
                         </td>
@@ -175,7 +175,7 @@
 
 
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Ibpprofen Karoten</h4>
+                                                <h4 class="app-card-title">Pfizer</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -188,9 +188,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="index.html" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="index.html" style="border-color:#3389fc; color:#3389fc "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>
@@ -211,7 +211,7 @@
 
                                             <!--//col-->
                                             <div class="col-auto">
-                                                <h4 class="app-card-title">Ibpprofen Karoten</h4>
+                                                <h4 class="app-card-title">Pfizer</h4>
                                             </div>
                                             <!--//col-->
                                         </div>
@@ -224,9 +224,9 @@
                                     </div>
                                     <!--//app-card-body-->
                                     <div class="app-card-footer p-4 mt-auto">
-                                        <a href="index.html" style="border-color:#3A55A4; color:#3A55A4 "
+                                        <a href="index.html" style="border-color:#3389fc; color:#3389fc "
                                             class="btn btn-lg m-t5">
-                                            book</a>
+                                            Book</a>
                                     </div>
                                     <!--//app-card-footer-->
                                 </div>

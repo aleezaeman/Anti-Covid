@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/pages-sign-up.html" />
 
-    <title>Sign Up</title>
+    <title>Hospital Sign Up</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="css/app.css" rel="stylesheet">
@@ -33,7 +33,7 @@
 }
 
 body {
-    background-color: #0A76B1;
+    background-color: #3389fc;
 }
 
 .card-img-top {
@@ -75,20 +75,20 @@ section {
 
 
 <body>
-    <section class="vh-100" style="background-color:#0A76B1;">
+    <section class="vh-100" style="background-color:#3389fc;">
         <div class="container py-5 h-100">
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col col-xl-12">
                     <div class="card" style="border-radius: 1rem;">
                         <div class="row g-0">
                             <div class="col-md-6 col-lg-5 d-none d-md-block">
-                                <img src="pexels-anna-shvets-3786234.jpg" alt="login form" class="card-img-top"
+                                <img src="pexels-anna-shvets-3786119.jpg" alt="login form" class="card-img-top"
                                     style="border-radius: 1rem 0 0 1rem;" />
                             </div>
                             <div class="col-md-6 col-lg-7 d-flex align-items-center">
                                 <div class="card-body p-4 p-lg-5 text-black">
                                     <div class="text-center mt-4">
-                                        <h1 style="color:#203C71;  font-size:30px;" class="h2">Join us ,Let's Immunify
+                                    <h1 style="color:#3389fc;  font-size:30px;" class="h2">Join us ,Let's Be Anti-Covid
                                         </h1>
                                         <p class="lead">You will be notified if Your request get accepted</p>
                                     </div>

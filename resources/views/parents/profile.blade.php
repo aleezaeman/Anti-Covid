@@ -74,7 +74,7 @@
 
                 <a href="index.html" style=" color:#3A55A4 "
                                             class="btn btn-lg m-t5">
-                                            logout</a>
+                                            Logout</a>
             </ul>
         </div>
     </nav>
@@ -94,7 +94,7 @@
                 <h5 class="card-title mb-0">Profile Details</h5>
             </div>
             <div class="card-body text-center">
-                <img src="./vesctor.png" alt="Christina Mason" class="img-fluid rounded-circle mb-2" width="128"
+                <img src="./Profile.jpg" alt="Christina Mason" class="img-fluid rounded-circle mb-2" width="128"
                     height="128" />
                 <h5 class="card-title mb-0">xyz patient</h5>
                 <div class="text-muted mb-2">Anti-Covid</div>
@@ -146,13 +146,13 @@
                         <tbody>
 
                             <tr>
-                                <td>username</td>
+                                <td>Username</td>
                                 <td class="text-end">Samreen</td>
 
 
                             </tr>
                             <tr>
-                                <td>email</td>
+                                <td>Email</td>
                                 <td class="text-end">  @if(session('email'))
                                                   
                                                   {{session('email')}}
@@ -161,7 +161,7 @@
 
                             </tr>
                             <tr>
-                                <td>password</td>
+                                <td>Password</td>
                                 <td class="text-end"> @if(session('password'))
                                                   
                                                   {{session('password')}}
@@ -171,11 +171,15 @@
                             </tr>
                             <tr>
                                 <td>Phone</td>
-                                <td class="text-end">021438322</td>
+                                <td class="text-end"> @if(session('contactNumber'))
+                                                  
+                                                  {{session('contactNumber')}}
+                                            
+                                              @endif</td>
 
                             </tr>
                             <tr>
-                                <td>project name</td>
+                                <td>Project name</td>
                                 <td class="text-end">Anti-Covid</td>
 
                             </tr>

@@ -72,7 +72,7 @@
     </div>
 </li>
 
-                                        <a href="index.html" style=" color:#3A55A4 "
+                                        <a href="index.html" style=" color:#3b7ddd "
                                             class="btn btn-lg m-t5">
                                             logout</a>
                                
@@ -97,7 +97,7 @@
 
 <table>
     <tr>
-        <td style="color: #0A77B1;" class="app-page-title">visit the hospitals</td>
+        <td style="color: #3b7ddd;" class="app-page-title">Visit the Hospitals</td>
         <td>
           
         </td>
@@ -110,11 +110,11 @@
             <div class="app-card app-card-stat shadow-sm h-100">
                 <div class="app-card-body p-3 p-lg-4">
                     <img height="220px" width="220px" src="./hospitalImages/{{$h->hospitalImage}}">
-                    <h4 class="stats-type mb-1 mt-3" style=" font-weight:21px; color:#203C71;">{{$h->name}}</h4>
+                    <h4 class="stats-type mb-1 mt-3" style=" font-weight:21px; color:#3b7ddd;">{{$h->name}}</h4>
                     <div class="text-muted">{{$h->location}}</div>
 
                     <div class="mt-3">
-                        <a href="/bookingVaccine/{{$h->id}}" style="color:#3A55A4;" class="btn btn-lg  m-t5">Book Now</a>
+                        <a href="/bookingVaccine/{{$h->id}}" style="color:#3b7ddd;" class="btn btn-lg  m-t5">Book Now</a>
                         <!-- <button type="submit" class="btn btn
                         -lg btn-primary">Sign up</button> -->
                     </div>
