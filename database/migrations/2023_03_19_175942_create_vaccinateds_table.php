@@ -23,7 +23,7 @@ return new class extends Migration
             $table->string("Timing");
             $table->string("vaccineType");
             $table->string("childImage");
-            $table->integer("parentId");
+            $table->integer("parentId")->nullable();
             $table->foreign("parentId")->on("id")->references("user_parents");
             $table->integer("hospitalId");
             $table->foreign("hospitalId")->on("id")->references("added_hospitals");

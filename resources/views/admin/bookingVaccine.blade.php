@@ -146,7 +146,7 @@
                     <ul class="navbar-nav navbar-align">
 
    
-<form class="form-inline">
+    <form class="form-inline">
                         <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
                             <i class="fa fa-bars"></i>
                         </button>
@@ -373,12 +373,12 @@
                                                     <label class="form-label">Date</label>
                                                     <select class="form-control form-control-lg" name="date">
                                                         <option value="">Select Appointment Date</option>
-                                                        <option value="21 March">21 March</option>
-                                                        <option value="22 March">22 March</option>
-                                                        <option value="23 March">23 March</option>
-                                                        <option value="24 March">24 March</option>
-                                                        <option value="25 March">25 March</option>
-                                                        <option value="26 March">26 March</option>
+                                                        <option value="01 January">01 January</option>
+                                                        <option value="02 January">02 January</option>
+                                                        <option value="03 January">03 January</option>
+                                                        <option value="04 January">04 January</option>
+                                                        <option value="05 January">05 January</option>
+                                                        <option value="06 January">06 January</option>
                                                   
                                                     </select>
                                                     @error('date')
@@ -418,31 +418,6 @@
                                         </div>
 
                                     </form>
-
-                                </div>
-                            </div>
-            </div>
-        </div>
-
-
-
-    </div>
-
-
-    </div>
-</main>
-
-                </div>
-                </main>
-
-
-        </div>
-    </div>
-
-
-
-
-
     <script src="../js/app.js"></script>
 
 <script>

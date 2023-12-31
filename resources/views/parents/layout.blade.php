@@ -15,7 +15,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>Parents Admin Panel</title>
+    <title>Patients Admin Panel</title>
 
         <!-- App CSS -->  
         <link id="theme-style" rel="stylesheet" href="assets/css/portal.css">
@@ -64,7 +64,7 @@
                 <a class="sidebar-brand" href="index.html">
                   <span class=" align-middle">  
              
-                  <img src="./Profile.jpg" class="rounded-circle" height="80px" width="60px"></span>
+                  <img src="./Profile.jpg" class="rounded-circle" height="0px" width="60px"></span>
                   
                 </span>
                 </a>
