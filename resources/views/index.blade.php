@@ -81,12 +81,12 @@
                         class="text-primary"></span></a>
 
                 <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
-                    <li class="active"><a href="index.html" style="color:#3389fc; font-size:16px">Home</a></li>
+                    <li class="active"><a href="../index" style="color:#3389fc; font-size:16px">Home</a></li>
                     <li class="has-children">
                        
                     <!-- <li id="smalll"><a href="services.html" style="color:#3389fc; font-size:16px">Why us</a></li> -->
-                    <li><a href="about.html" style="color:#3389fc; font-size:16px">About</a></li>
-                    <li><a href="contact.html" style="color:#3389fc; font-size:16px">Contact Us</a></li>
+                    <li><a href="#Aboutpara" style="color:#3389fc; font-size:16px">About</a></li>
+                    <li><a href="#Contactpara" style="color:#3389fc; font-size:16px">Contact Us</a></li>
                     <li><a href="/loginform"> <button  type="button" class="btn btn-info"
                                 style="background-color:#3389FC; font-size:16px">Log In</button></a></li>
                     <li><a href="./signupform"> <button  type="button" class="btn btn-info"
@@ -385,7 +385,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 mx-auto text-center">
         <div class="intro-wrap">
-          <h1 class="mb-0" >About Us</h1>
+          <h1 id="Aboutpara" class="mb-0" >About Us</h1>
           <p class="text-white">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
         </div>
       </div>
@@ -431,7 +431,7 @@
     <div class="row align-items-center">
       <div class="col-md-6 mx-auto text-center">
         <div class="intro-wrap">
-          <h1 class="mb-3">Contact Us</h1>
+          <h1 id="Contactpara" class="mb-3">Contact Us</h1>
           <p class="mb-5" style= color:white>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
         </div>
       </div>

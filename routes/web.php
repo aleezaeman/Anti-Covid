@@ -70,7 +70,7 @@ Route::get('signin', function () {
     return view('admin.signin');
 });
 Route::get('index', function () {
-    return view('immunify.index');
+    return view('index');
 });
 
 Route::get('extra', function () {
